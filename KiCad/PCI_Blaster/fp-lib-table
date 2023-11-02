@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCI Blaster")(type "KiCad")(uri "C:/Users/chadr/Downloads/PCI Blaster")(options "")(descr ""))
+  (lib (name "Panel Indicator")(type "KiCad")(uri "C:/Users/chadr/Downloads/PCI Blaster/Panel Indicator")(options "")(descr ""))
+)
